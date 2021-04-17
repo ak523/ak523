@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hi align="center">Hi there, I am Aryan Kadiya 👋</h1>
+
+<p align="center">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ak523&show_icons=true" alt="Aryan Kadiya">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryankadiya/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
