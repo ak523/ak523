@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other to work on android projects
-- 🥅 2021 Goals: Develope good programming and development skills
+- 🥅 2021 Goals: Develop good programming and development skills
 - ⚡ Fun fact: I love to think of solutions of different problems
 
 ### Spotify Playing 🎧
