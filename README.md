@@ -44,8 +44,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Aryan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ak523&show_icons=true&hide_border=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ak523&show_icons=true&theme=radical" />
 
 </details>
 
