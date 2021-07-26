@@ -8,9 +8,7 @@
 - 🥅 2021 Goals: Develop good programming and development skills
 - ⚡ Fun fact: I love to think of solutions of different problems
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Aryan Spotify Playing" width="350" />](https://open.spotify.com/user/f22espk1curpf75766l2y8gwe)
 
 ### Connect with me:
 
