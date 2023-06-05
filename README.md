@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other to work on android projects
 - 🥅 2021 Goals: Develop good programming and development skills
-- ⚡ Fun fact: I love to think of solutions of different problems
+- ⚡ Fun fact: I can deadlift 100kgs.
 
 
 
